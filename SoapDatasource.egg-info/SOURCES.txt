@@ -1,0 +1,6 @@
+DceData.py
+setup.py
+SoapDatasource.egg-info/PKG-INFO
+SoapDatasource.egg-info/SOURCES.txt
+SoapDatasource.egg-info/dependency_links.txt
+SoapDatasource.egg-info/top_level.txt
